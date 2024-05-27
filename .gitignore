@@ -1,7 +1,8 @@
 /venv/
-.idea
+/.idea/
 bonus
 experiments
 files
 journal
 Exercise
+/.venv/
